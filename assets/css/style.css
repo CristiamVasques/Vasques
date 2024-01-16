@@ -8,3 +8,7 @@ h1 {
   font-size: 2em;
   margin-top: 0;
 }
+
+link[rel="icon"] {
+    border-radius: 50%; /* Arredonda todos os cantos com raio de 50% */
+}
