@@ -1,6 +1,6 @@
 body {
-  background-color: black;
-  color: #c5c1b5;
+  background-color: #c5c1b5;
+  color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -13,16 +13,16 @@ ul {
 }
 
 a {
-	color: #c5c1b5;
+	color: black;
 	text-decoration: none;
 	font-weight: bold;
 }
 
-img {
+header img {
 	weight: 150px;
 	height: 150px;
 	border-radius: 50%;
-	border: 5px solid #c5c1b5;
+	border: 5px solid black;
 }
 
 .center {
@@ -30,5 +30,49 @@ img {
 }
 
 h1{
-	color: #c5c1b5;
+	color: black;
+}
+
+.github {
+	weight: 40px;
+	height: 40px;
+	border-radius: 10%;
+}	
+
+.linkedin {
+	weight: 40px;
+	height: 40px;
+	border-radius: 10%;
+}
+
+.credly {
+	weight: 40px;
+	height: 40px;
+	border-radius: 10%;
+}
+
+footer{
+	display: flex;
+	justify-content: center;
+}
+
+footer a{
+	margin: 20px;
+	text-align: center;
+}
+
+footer a:hover {
+	color: blue;
+}
+
+footer p{
+	margin: 2px;
+}
+
+.container{
+	padding: 0px 50px;
+}
+
+nav a:hover {
+	color: blue;
 }
