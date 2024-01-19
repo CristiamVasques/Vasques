@@ -73,6 +73,11 @@ footer p{
 	padding: 0px 50px;
 }
 
+nav a {
+	margin: 20px;
+	text-align: center;
+}
+
 nav a:hover {
 	color: blue;
 }
