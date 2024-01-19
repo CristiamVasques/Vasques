@@ -70,6 +70,8 @@ footer p{
 }
 
 .container{
+	display: flex;
+	flex-direction: column;
 	padding: 0px 50px;
 }
 
