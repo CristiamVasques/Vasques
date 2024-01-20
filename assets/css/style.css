@@ -72,11 +72,11 @@ footer p{
 .container{
 	display: flex;
 	flex-direction: column;
-	padding: 0px 50px;
+	padding: 0px 10px;
 }
 
 nav a {
-	margin: 1px;
+	margin: 20px;
 	text-align: center;
 }
 
