@@ -62,7 +62,7 @@ footer a{
 }
 
 footer a:hover {
-	color: blue;
+	color: darkgreen;
 }
 
 footer p{
@@ -81,5 +81,9 @@ nav a {
 }
 
 nav a:hover {
-	color: blue;
+	color: darkgreen;
+}
+
+main section p {
+	text-align: justify;
 }
