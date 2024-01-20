@@ -92,3 +92,54 @@ main section p {
 .aqui:hover {
 	color: darkgreen;
 }
+
+.outlook img {
+	weight: 30px;
+	height: 30px;
+	border-radius: 10%;
+	padding-right: 1%;
+}
+
+.whatsapp img {
+	weight: 30px;
+	height: 30px;
+	border-radius: 10%;
+	padding-right: 1%;
+}
+
+.outlook p:hover {
+	color: darkgreen;
+}
+
+.whatsapp p:hover {
+	color: darkgreen;
+}
+
+.outlook {
+	display: flex;
+	align-items: center;
+}
+
+.whatsapp {
+	display: flex;
+	align-items: center;
+}
+
+/*
+.outlook p {
+	float: right;
+	margin-right: 91%;
+}
+
+.whatsapp p {
+	float: right;
+	margin-right: 90%;
+}
+
+.outlook p:hover {
+	color: darkgreen;
+}
+
+.whatsapp p:hover {
+	color: darkgreen;
+}
