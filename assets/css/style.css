@@ -53,12 +53,12 @@ h1, h2 {
 	border-radius: 10%;
 }
 
-footer{
+footer {
 	display: flex;
 	justify-content: center;
 }
 
-footer a{
+footer a {
 	margin: 20px;
 	text-align: center;
 }
@@ -108,11 +108,11 @@ main section p {
 	padding-right: 1%;
 }
 
-.outlook p:hover {
+.outlook a:hover {
 	color: darkgreen;
 }
 
-.whatsapp p:hover {
+.whatsapp a:hover {
 	color: darkgreen;
 }
 
