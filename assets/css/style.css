@@ -48,9 +48,10 @@ h1, h2 {
 }
 
 .credly {
-	weight: 40px;
-	height: 40px;
-	border-radius: 10%;
+	weight: 33px;
+	height: 33px;
+	border-radius: 50%;
+	border: 3px solid black;
 }
 
 footer {
