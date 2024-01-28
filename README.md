@@ -48,6 +48,6 @@ Também menciona sua expertise em soluções de videoconferência, redes de dado
 
 ## Contato
 
-* E-mail: [crvasques@outlook.com]
-* Telefone: [(11)960527971]
+* E-mail: crvasques@outlook.com
+* Telefone: (11)960527971
 
