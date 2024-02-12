@@ -65,7 +65,7 @@ footer a {
 }
 
 footer a:hover {
-	color: darkgreen;
+	color: salmon;
 }
 
 footer p{
@@ -84,7 +84,7 @@ nav a {
 }
 
 nav a:hover {
-	color: darkgreen;
+	color: salmon;
 }
 
 main section p {
@@ -92,7 +92,7 @@ main section p {
 }
 
 .aqui:hover {
-	color: darkgreen;
+	color: salmon;
 }
 
 .outlook img {
@@ -110,11 +110,11 @@ main section p {
 }
 
 .outlook a:hover {
-	color: darkgreen;
+	color: salmon;
 }
 
 .whatsapp a:hover {
-	color: darkgreen;
+	color: salmon;
 }
 
 .outlook {
