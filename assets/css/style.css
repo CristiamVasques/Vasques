@@ -48,9 +48,9 @@ h1, h2 {
 }
 
 .credly {
-	weight: 33px;
-	height: 33px;
-	border-radius: 50%;
+	weight: 34px;
+	height: 34px;
+	border-radius: 100%;
 	border: 3px solid black;
 }
 
