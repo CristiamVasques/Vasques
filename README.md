@@ -1,6 +1,6 @@
 # Página web de Cristiam Vasques
 
-Esta página web apresenta Cristiam Vasques, um profissional com 28 anos de experiência em telecomunicações.
+Esta página web me apresenta, Cristiam Vasques, um profissional com 28 anos de experiência em telecomunicações
 
 ## Seções
 
@@ -13,11 +13,11 @@ A página é composta por quatro seções:
 
 ## Sobre mim
 
-Nesta seção, o Cristiam apresenta sua experiência profissional, suas habilidades e suas áreas de interesse.
+Nesta seção, apresento minha experiência profissional, minhas habilidades e minhas áreas de interesse.
 
-Ele destaca sua experiência em projetos de telecomunicações em diversos setores, como construção, governo, hospitalidade, indústria, saúde, serviços financeiros e varejo.
+Destaco minha experiência em projetos de telecomunicações em diversos setores, como construção, governo, hospitalidade, indústria, saúde, serviços financeiros e varejo.
 
-Também menciona sua expertise em soluções de videoconferência, redes de dados e cibersegurança.
+Também menciono minha expertise em soluções de videoconferência, redes de dados e cibersegurança.
 
 ## Experiência profissional
 
@@ -36,6 +36,9 @@ Também menciona sua expertise em soluções de videoconferência, redes de dado
 * Implementação de medidas de segurança para proteger a infraestrutura (Fortinet e pfSense)
 * Monitoramento e resposta a incidentes de segurança
 * Prestação de suporte técnico de nível avançado
+* Cabeamento estruturado;<br>
+* Montagem de DG´s (Distribuidores Gerais - telefonia);
+* Montagem e organização de rack´s.
 
 ## Áreas de interesse
 
