@@ -1,11 +1,3 @@
-:root {
-  --hover-color: salmon;
-}
-
-a:hover {
-  color: var(--hover-color);
-}
-
 body {
   background-color: #c5c1b5;
   color: black;
@@ -34,7 +26,7 @@ header img {
 	border: 5px solid black;
 }
 
-.center, .registro {
+.center {
 	text-align: center
 }
 
@@ -43,16 +35,27 @@ h1, h2 {
 	text-align: center;
 }
 
+.github {
+	weight: 40px;
+	height: 40px;
+	border-radius: 10%;
+}	
+
+.linkedin {
+	weight: 40px;
+	height: 40px;
+	border-radius: 10%;
+}
 
 .credly {
-	width: 34px;
+	weight: 34px;
 	height: 34px;
 	border-radius: 100%;
 	border: 3px solid black;
 }
 
-.github, .learn, .linkedin  {
-	width: 40px;
+.learn {
+	weight: 40px;
 	height: 40px;
 	border-radius: 10%;
 }
@@ -65,6 +68,10 @@ footer {
 footer a {
 	margin: 20px;
 	text-align: center;
+}
+
+footer a:hover {
+	color: salmon;
 }
 
 footer p{
@@ -82,19 +89,50 @@ nav a {
 	text-align: center;
 }
 
+nav a:hover {
+	color: salmon;
+}
+
 main section p {
 	text-align: justify;
 }
 
-.outlook img, .whatsapp img {
+.aqui:hover {
+	color: salmon;
+}
+
+.outlook img {
 	weight: 30px;
 	height: 30px;
 	border-radius: 10%;
 	padding-right: 1%;
 }
 
-.outlook, .whatsapp {
+.whatsapp img {
+	weight: 30px;
+	height: 30px;
+	border-radius: 10%;
+	padding-right: 1%;
+}
+
+.outlook a:hover {
+	color: salmon;
+}
+
+.whatsapp a:hover {
+	color: salmon;
+}
+
+.outlook {
 	display: flex;
 	align-items: center;
 }
 
+.whatsapp {
+	display: flex;
+	align-items: center;
+}
+
+.registro {
+	text-align: center;
+}
