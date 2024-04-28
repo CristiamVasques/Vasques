@@ -27,3 +27,10 @@ function exibirRelogio() {
 }
 
 exibirRelogio(); // Chama a função para iniciar o relógio
+
+window.onload = function() {
+    var element = document.getElementById('dailyVersesWrapper');
+    if (element) {
+        element.style.pointerEvents = 'none';
+    }
+}
