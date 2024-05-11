@@ -51,7 +51,7 @@ h1, h2 {
 	border: 3px solid black;
 }
 
-.github, .learn, .linkedin  {
+.github, .learn, .linkedin {
 	width: 40px;
 	height: 40px;
 	border-radius: 10%;
@@ -71,7 +71,7 @@ footer p{
 	margin: 2px;
 }
 
-.container{
+.container {
 	display: flex;
 	flex-direction: column;
 	padding: 0px 10px;
@@ -86,14 +86,14 @@ main section p {
 	text-align: justify;
 }
 
-.outlook img, .whatsapp img {
+.outlook img, .whatsapp img, .lattes img, .orcid img {
 	weight: 30px;
 	height: 30px;
 	border-radius: 10%;
 	padding-right: 1%;
 }
 
-.outlook, .whatsapp {
+.outlook, .whatsapp, .lattes, .orcid {
 	display: flex;
 	align-items: center;
 }
