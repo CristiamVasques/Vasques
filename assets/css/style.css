@@ -51,7 +51,7 @@ h1, h2 {
 	border: 3px solid black;
 }
 
-.github, .learn, .linkedin {
+.github, .learn, .linkedin, .trailhead {
 	width: 40px;
 	height: 40px;
 	border-radius: 10%;
