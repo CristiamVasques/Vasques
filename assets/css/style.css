@@ -44,7 +44,7 @@ h1, h2 {
 }
 
 
-.credly {
+.credly, .googlecloud {
 	width: 34px;
 	height: 34px;
 	border-radius: 100%;
