@@ -15,7 +15,7 @@ function exibirRelogio() {
   var diasDaSemana = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'];
   var diaDaSemana = diasDaSemana[data.getDay()];
   var diaDoMes = data.getDate();
-  var meses = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
+  var meses = ['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro'];
   var mes = meses[data.getMonth()];
   var ano = data.getFullYear();
   var dataFormatada = diaDaSemana + ', ' + diaDoMes + ' de ' + mes + ' de ' + ano;
