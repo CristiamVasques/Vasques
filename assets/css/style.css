@@ -1,5 +1,7 @@
 :root {
-  --hover-color: salmon;
+  --hover-color: #B06341;
+  /*--hover-color: #1B4486;*/
+  /*--hover-color: salmon;*/
 }
 
 a:hover {
